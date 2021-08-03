@@ -1,2 +1,1 @@
-# go-xumchain
-Xumchain source code 
+# xumchain source code 
